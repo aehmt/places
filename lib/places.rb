@@ -1,0 +1,15 @@
+require 'uri'
+require 'json'
+require 'pry'
+require 'net/http'
+require 'csv'
+
+require 'require_all'
+# require_relative './places/category.rb'
+# require_relative './places/cli.rb'
+# require_relative './places/location.rb'
+# require_relative './places/parser.rb'
+# require_relative './places/place.rb'
+# require_relative './places/version.rb'
+# require_relative './zipcode/zipcode.csv'
+
